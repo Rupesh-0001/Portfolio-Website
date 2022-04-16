@@ -1,38 +1,38 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Rupesh Ahuja',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Rupesh Ahuja is a Computer Science Student at UIET,Panjab University, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Rupesh, Rupesh Ahuja, RupeshAhuja, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
   siteUrl: 'https://chandrikadeb7.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Rupesh',
+  location: 'Punjab, India',
+  email: 'rupeshahuja28@gmail.com',
+  github: 'https://github.com/rupesh-0001',
+  twitterHandle: '@RupeshAhuja9',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/rupesh-0001',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/rupesh-ahuja/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://leetcode.com/rupeshahuja28/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/rupesh__0001',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/RupeshAhuja9',
     },
   ],
 

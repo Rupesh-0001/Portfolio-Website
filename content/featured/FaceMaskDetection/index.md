@@ -1,17 +1,16 @@
 ---
 date: '3'
-title: 'Face Mask Detection'
-cover: 'face-mask.png'
+title: 'Alzheimer Detection Android App'
+cover: 'Photu.jpg'
 github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+external: 'https://drive.google.com/file/d/1hthqaBMQCfZAt24PhaoKIbjM-e-6fXvp/view?usp=sharing'
 tech:
-  - OpenCV
-  - TensorFlow
-  - Keras
-  - Python
+  - Unity 3
+  - C-sharp
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
+Mobile game for detection of early symptoms of Alzheimer's. App was made using unity 3.
+And got my team 1st position in Smart India Hackathon Campus Round.
 
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+
