@@ -8,6 +8,7 @@ tech:
   - Javascript
   - HTML
   - CSS
+  - Bootstrap
 company: ''
 showInProjects: true
 ---

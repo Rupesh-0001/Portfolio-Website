@@ -1,16 +1,15 @@
 ---
-date: '2020-09-16'
-title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
-external: ''
+date: '2021-08-11'
+title: 'Sukhdayak Motors'
+github: 'https://github.com/Rupesh-0001/SukhdayakMotorsWebsite'
+external: 'http://54.160.106.255:8000/'
 tech:
-  - Kotlin/Java
-  - Spring Microservices
-  - Javascript
+  - HTML
   - CSS
-  - Python
+  - Javascript
+  - Node.js
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-Repository dedicated to my #100DaysOfCode journey
+An e-commerce website for a small scale business. 

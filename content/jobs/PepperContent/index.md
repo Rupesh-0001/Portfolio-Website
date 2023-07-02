@@ -1,6 +1,6 @@
 ---
 date: '2021-07-07'
-title: 'React Developer'
+title: 'Web Developer'
 company: 'All IT Services'
 range: 'July 2021 - August 2021'
 url: 'https://allitservices.in/'
